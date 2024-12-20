@@ -88,6 +88,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://Lola-ferr.github.io/Image-annotation/images/nikolai-lehmann-05cDX4y2oJ8-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "nikolai-lehmann-05cDX4y2oJ8-unsplash"
+                ]
+            },
+            "height": 4159,
+            "width": 6654,
+            "items": [
+                {
+                    "id": "https://Lola-ferr.github.io/Image-annotation/images/nikolai-lehmann-05cDX4y2oJ8-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Lola-ferr.github.io/Image-annotation/images/nikolai-lehmann-05cDX4y2oJ8-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Lola-ferr.github.io/Image-annotation/images/nikolai-lehmann-05cDX4y2oJ8-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 208,
+                                                "height": 130
+                                            },
+                                            {
+                                                "width": 416,
+                                                "height": 260
+                                            },
+                                            {
+                                                "width": 832,
+                                                "height": 520
+                                            },
+                                            {
+                                                "width": 1664,
+                                                "height": 1040
+                                            },
+                                            {
+                                                "width": 3327,
+                                                "height": 2080
+                                            },
+                                            {
+                                                "width": 6654,
+                                                "height": 4159
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 6654,
+                                        "@id": "https://Lola-ferr.github.io/Image-annotation/images/nikolai-lehmann-05cDX4y2oJ8-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4159,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Lola-ferr.github.io/Image-annotation/images/nikolai-lehmann-05cDX4y2oJ8-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
