@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Lola-ferr.github.io/Image-annotation/manifests/manifest1.json",
     "label" : "example manifest exercise"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Lola-ferr.github.io/Image-annotation/manifests/manifest2.json",
+    "label" : "example manifest exercise"
   } ]
 }
